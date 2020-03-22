@@ -38,4 +38,4 @@ def format_duration(seconds):
     else:
         return 'now'
 
-print(format_duration(1000000000000)) 
+print(format_duration(10000000000))
